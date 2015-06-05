@@ -1,1 +1,1 @@
-*/5 * * * * curl -X HEAD http://10.25.244.23/cgi-bin/syuttaikin.cgi >/dev/null
+*/5 * * * * /root/bin/syuttaikin.py
