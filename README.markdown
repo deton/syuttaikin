@@ -6,6 +6,7 @@
 
 目的は、[出退表示LED](https://github.com/deton/presenceled)と同じです。
 LED点滅表示だと、ぱっと見た時にわかりにくいので作成。
+また、電源喪失時にも、状態が残るようにするため。
 
 ![画像](../img/syuttaikin.jpg)
 
